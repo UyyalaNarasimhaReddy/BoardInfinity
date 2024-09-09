@@ -2,13 +2,11 @@
 
 # Kanban To-Do List Application
 
-![Kanban To-Do List App](https://via.placeholder.com/1200x500.png?text=Kanban+To-Do+List+Application)
-
-This project is a **Kanban-style To-Do list application** built using **React.js**, **Tailwind CSS**, and **Firebase**. The application provides a streamlined way to manage tasks by organizing them into different statuses such as "To Do", "In Progress", and "Completed". With a responsive design and real-time task management powered by Firebase, this app is ideal for task tracking and team collaboration.
+This project is a **Kanban-style To-Do list application** built using **React.js**, **Tailwind CSS**, and **Firebase**. The application allows users to manage tasks efficiently by organizing them into different statuses (e.g., To Do, In Progress, Completed). The intuitive drag-and-drop interface provides a simple and effective way to track progress on tasks.
 
 ### Live Demo:
-Try the live version of the application here:  
-[Kanban To-Do List](https://boardinfinitynarasimha.netlify.app/)
+Check out the live version of the application here: [Kanban To-Do List](https://boardinfinitynarasimha.netlify.app/)
+
 
 ## ✨ Features:
 - **Task Management:** Create, update, and delete tasks with detailed information including title, description, due date, status, and priority.
@@ -17,18 +15,6 @@ Try the live version of the application here:
 - **Responsive UI:** Fully responsive design, optimized for both desktop and mobile devices using Tailwind CSS.
 - **Column Statuses:** Organize tasks into columns based on their current status: To Do, In Progress, or Completed.
 
-### 🖥️ Screenshots:
-Here are some screenshots of the application:
-
-**Kanban Board Interface:**
-
-![Kanban Board](https://via.placeholder.com/600x400.png?text=Kanban+Board+UI)
-
-**Add New Task Form:**
-
-![Add Task](https://via.placeholder.com/600x400.png?text=Add+New+Task+Form)
-
----
 
 ## 🛠️ Technologies Used:
 
