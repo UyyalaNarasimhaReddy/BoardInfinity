@@ -1,0 +1,40 @@
+.main-container {
+  background-color: #f9fcfe;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.create-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 20px 40px;
+  border-radius: 15px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  width: 60%;
+  margin: 20px auto;
+}
+
+.create-container span {
+  font-size: 20px;
+  font-weight: 500;
+  color: #0d0d0d;
+}
+
+.columns-container {
+  display: flex;
+  justify-content: space-between;
+  width: 65%;
+  margin: 30px auto;
+}
+
+
+
+.delete {
+  cursor: pointer;
+  margin-top: 8px;
+}
